@@ -20,6 +20,7 @@ struct ContentView: View {
                 .cornerRadius(15)
                 .shadow(radius: 15)
                 .padding()
+        //practicing github
         }
     }
 struct ContentView_Previews: PreviewProvider {
